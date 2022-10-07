@@ -1,0 +1,71 @@
+h1 {
+    font-family:'Papyrus', 'Fantasy';
+    text-align: center;
+    margin: 5px;
+}
+
+h2 {
+    font-family:'Papyrus', 'Fantasy';
+    text-align: left;
+    margin: 5px;
+    color: yellow;    
+}
+
+h3 {
+    font-family:'Papyrus', 'Fantasy';
+    text-align: left;
+    margin: 5px 5px 0px;
+    display: inline-block; 
+    color: white;   
+}
+
+.main {
+    display: block;
+    image-rendering: crisp-edges;
+    height: 400px;
+    float: left;
+    border: 2px solid black;
+    margin: 5px 25px 20px 15px;      
+}
+
+.moreBooks img {
+    display: block;
+    image-rendering: crisp-edges;
+    height: 250px;
+    width: 175px;
+    float: left;
+    border: 2px solid black;
+    margin: 0px 10px 25px 15px;      
+}
+
+.center {
+    margin-top: -20px;
+    margin-left: 100px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+article {
+    margin-top: 10px;
+}
+
+blockquote {
+    margin-top: 5px;
+    display: block;     
+}
+
+a {
+    color: white;
+}
+
+button {
+    background-color: chocolate;
+    color: yellow;
+    font-family:'Papyrus', 'Fantasy';
+    font-size: medium;    
+    margin: 0px 10px 10px 5px;    
+}
